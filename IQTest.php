@@ -1,3 +1,3 @@
 <?php
-echo "Gijs is een gay fag XDDDD";
+echo "ness is sans";
 ?>

@@ -1,3 +1,3 @@
 <?php
-echo "ness is sans";
+echo "Test, if correct Gijs shall say 'hihi I like memes epic style'";
 ?>
